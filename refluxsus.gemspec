@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["artis@devart.lv"]
   spec.summary       = ""
   spec.description   = ""
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ArtisR/refluxsus"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
